@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "versionCode": 5,
+  "version": "1.0.0",
+  "versionCode": 1,
   "url": "https://github.com/wtrk68/magnetometer-updates/releases/download/v1.0.0/Senstech_Final.apk",
   "notes": "Önemli güvenlik güncellemesi",
   "mandatory": true
